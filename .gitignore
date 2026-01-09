@@ -1,0 +1,22 @@
+# Compiled files
+*.o
+*.out
+*.exe
+a.out
+
+# Debugger files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
